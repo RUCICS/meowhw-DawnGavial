@@ -184,6 +184,7 @@ posix_fadvise(fd, 0, 0, POSIX_FADV_SEQUENTIAL);
 1. **你的全部实验结果的柱状图。**
 
 如图所示，因为cat1运行时间太久，这里忽略它
+
 ![](imgs/图7.png)
 
 2. **你对上述实验结果的分析。**
